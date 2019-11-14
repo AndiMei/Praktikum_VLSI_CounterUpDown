@@ -1,0 +1,41 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown_Test_isim_beh.exe -prj E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown_Test_beh.prj work.myCounter_UpDown_Test 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" into library work
+Parsing VHDL file "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown_Test.vhd" into library work
+Starting static elaboration
+WARNING:HDLCompiler:746 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown_Test.vhd" Line 48: Range is empty (null range)
+WARNING:HDLCompiler:746 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 37: Range is empty (null range)
+WARNING:HDLCompiler:746 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 37: Range is empty (null range)
+WARNING:HDLCompiler:220 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 95: Assignment ignored
+WARNING:HDLCompiler:220 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 96: Assignment ignored
+WARNING:HDLCompiler:220 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 97: Assignment ignored
+WARNING:HDLCompiler:220 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 98: Assignment ignored
+WARNING:HDLCompiler:220 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 99: Assignment ignored
+WARNING:HDLCompiler:220 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 100: Assignment ignored
+WARNING:HDLCompiler:220 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 101: Assignment ignored
+WARNING:HDLCompiler:220 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 102: Assignment ignored
+WARNING:HDLCompiler:220 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 103: Assignment ignored
+WARNING:HDLCompiler:220 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 104: Assignment ignored
+WARNING:HDLCompiler:220 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 105: Assignment ignored
+WARNING:HDLCompiler:220 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 106: Assignment ignored
+WARNING:HDLCompiler:220 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 107: Assignment ignored
+WARNING:HDLCompiler:220 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 108: Assignment ignored
+WARNING:HDLCompiler:220 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 109: Assignment ignored
+WARNING:HDLCompiler:220 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 110: Assignment ignored
+WARNING:HDLCompiler:220 - "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown.vhd" Line 111: Assignment ignored
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity myCounter_UpDown [mycounter_updown_default]
+Compiling architecture behavior of entity mycounter_updown_test
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 7 VHDL Units
+Built simulation executable E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown_Test_isim_beh.exe
+Fuse Memory Usage: 34464 KB
+Fuse CPU Usage: 749 ms

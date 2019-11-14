@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown_Test_isim_beh.exe" -prj "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_06/Percobaan_02/myCounter_UpDown_Test_beh.prj" "work.myCounter_UpDown_Test" 
