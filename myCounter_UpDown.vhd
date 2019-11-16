@@ -50,6 +50,7 @@ Led <= Switch;
 reset <= Switch(6);
 UpDown <= Switch(5);
 
+--izzat joined
 -- clock divider, untuk menurunkan frkuensi dari clock input (eksternal)
 ckDivider: process(mclk)
 begin
